@@ -1,0 +1,1 @@
+C:\Users\Admin\AndroidStudioProjects\proyecto\app\src\main\java\com\curso\android\app\practica\proyecto\MainActivity.kt
