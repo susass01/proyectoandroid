@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">proyecto</string>
+    <string name="textouno">Texto1</string>
+    <string name="textodos">Texto2</string>
+</resources>
